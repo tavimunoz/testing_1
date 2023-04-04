@@ -1,1 +1,1 @@
-"Pruebas automatizadas con Selenium"
+"Pruebas automatizadas con Selenium Web Driver"
